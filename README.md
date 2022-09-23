@@ -12,7 +12,7 @@ This Prework Study Guide was created for boot camp students who were going throu
 
 ## Installation
 
-N/A
+"N/A"
 
 ## Usage
 
@@ -22,7 +22,7 @@ A console panel should open either below or to the side of the webpage in the br
 
 ## Credits
 
-N/A
+"N/A"
 
 ## License
 
